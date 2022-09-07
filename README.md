@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salma Hossam elden Hassan</h1>
 <h3 align="center">A Software engineer from Egypt</h3>
 # 💫 About Me:
- a Student at FCAI,Cairo University <br><br>My Major is Software Engineering 
+<br><br> a Student at FCAI,Cairo University <br><br>My Major is Software Engineering 
  <br><br>●🌱 I’m currently learning Flutter framework <br>●📪 How to reach me<br>        Salma1soliman00@gmail.com 
 
 
