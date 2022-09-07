@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 , I am Salma Hossam <br><br>Student at FCAI,Cairo University <br><br>●🌱 I’m currently learning Flutter framework <br>●📪 How to reach me<br>        Salma1soliman00@gmail.com 
+Hi 👋 , I am Salma Hossam <br><br> a Student at FCAI,Cairo University <br><br>●🌱 I’m currently learning Flutter framework <br>●📪 How to reach me<br>        Salma1soliman00@gmail.com 
 
 
 ## 🌐 Socials:
